@@ -45,5 +45,6 @@ O uso de scripts para coleta de informações é comum entre os profissionais qu
     🔥 Economia de tempo e dinheiro: sem um limite de consultas, os usuários podem economizar tempo e dinheiro ao não precisar pagar por consultas adicionais ou esperar por um período de tempo específico para realizar mais pesquisas. Isso pode ser especialmente útil para equipes com orçamentos limitados ou que precisam trabalhar com prazos apertados.
 
 # Interaja de forma mais elegante
+Veja como é facil de usa-lo ✨
 
 [![DGG OSINT](https://img.youtube.com/vi/3t2AOiu3b9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=3t2AOiu3b9A)
