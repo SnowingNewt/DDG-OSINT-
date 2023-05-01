@@ -1,7 +1,7 @@
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
 
-![alt text](https://i.ibb.co/924fCjV/Captura-de-tela-2023-05-01-120705.png)
+![alt text](https://i.ibb.co/FDgDcjX/34563457.gif)
 
 # Resumo:
 O DDG OSINT é uma ferramenta de automação desenvolvida em Python, que permite ao usuário realizar tarefas repetitivas de forma rápida e eficiente. O objetivo do script é automatizar tarefas que seriam tediosas ou demoradas se realizadas manualmente, como, por exemplo, a extração de dados de um grande conjunto de arquivos.
@@ -13,6 +13,8 @@ Além disso, o script pode ser executado em diferentes ambientes, incluindo sist
 Em termos de funcionalidade, o script pode ser personalizado para atender às necessidades específicas de cada usuário, dependendo das tarefas que precisam ser automatizadas. O script pode ser modificado e adaptado para diferentes casos de uso, desde a extração de dados até a criação de relatórios automatizados.
 
 Em resumo, o script em questão é uma ferramenta poderosa de automação que utiliza tecnologias modernas para realizar tarefas repetitivas de forma rápida e eficiente. Com suas funcionalidades personalizáveis, o script pode ser adaptado para atender às necessidades específicas de cada usuário, tornando-se uma ferramenta valiosa para otimizar processos e aumentar a produtividade.
+
+![alt text](https://i.ibb.co/924fCjV/Captura-de-tela-2023-05-01-120705.png)
 
 # Projetado para investigações OSINT e mais!
 
