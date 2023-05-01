@@ -32,7 +32,7 @@ O uso de scripts para coleta de informações é comum entre os profissionais qu
 
 # ❌ Sem limites de consultas bloqueadas por Recaptcha!
 
-    🔥 Não ter um limite de consultas em ferramentas de pesquisa OSINT pode trazer diversos benefícios, tais como:
+       Não ter um limite de consultas em ferramentas de pesquisa OSINT pode trazer diversos benefícios, tais como:
 
     🔥 Maior eficiência: ao não ter um limite de consultas, os usuários podem realizar um grande número de pesquisas sem se preocupar em serem bloqueados ou limitados. Isso permite que eles sejam mais eficientes em suas pesquisas e obtenham resultados mais rapidamente.
 
