@@ -4,7 +4,7 @@ Uma nova variante para usar o DuckDuckGo em CLI
 ![alt text](https://i.ibb.co/924fCjV/Captura-de-tela-2023-05-01-120705.png)
 
 # Resumo:
-O script em questão é uma ferramenta de automação desenvolvida em Python, que permite ao usuário realizar tarefas repetitivas de forma rápida e eficiente. O objetivo do script é automatizar tarefas que seriam tediosas ou demoradas se realizadas manualmente, como, por exemplo, a extração de dados de um grande conjunto de arquivos.
+O DDG OSINT é uma ferramenta de automação desenvolvida em Python, que permite ao usuário realizar tarefas repetitivas de forma rápida e eficiente. O objetivo do script é automatizar tarefas que seriam tediosas ou demoradas se realizadas manualmente, como, por exemplo, a extração de dados de um grande conjunto de arquivos.
 
 O script utiliza diversas tecnologias, incluindo a linguagem de programação Python, bem como algumas bibliotecas específicas para a realização de tarefas específicas, como o BeautifulSoup para a extração de dados de páginas HTML e o Pandas para manipulação de dados em formato de tabela.
 
@@ -39,3 +39,7 @@ O uso de scripts para coleta de informações é comum entre os profissionais qu
     🔥 Melhor resolução de casos: para policiais, detetives e hackers éticos, ter acesso a um grande número de consultas OSINT pode ser fundamental para resolver um caso ou coletar informações importantes. A capacidade de realizar uma pesquisa abrangente pode ser a diferença entre sucesso e fracasso em uma investigação.
 
     🔥 Economia de tempo e dinheiro: sem um limite de consultas, os usuários podem economizar tempo e dinheiro ao não precisar pagar por consultas adicionais ou esperar por um período de tempo específico para realizar mais pesquisas. Isso pode ser especialmente útil para equipes com orçamentos limitados ou que precisam trabalhar com prazos apertados.
+
+# Interaja de forma mais elegante
+
+[![UNDER LEAKS](https://img.youtube.com/vi/3t2AOiu3b9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=3t2AOiu3b9A)
