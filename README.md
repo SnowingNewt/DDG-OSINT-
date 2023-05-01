@@ -1,6 +1,8 @@
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
 
+![alt text](https://i.ibb.co/924fCjV/Captura-de-tela-2023-05-01-120705.png)
+
 # Resumo:
 O script em questão é uma ferramenta de automação desenvolvida em Python, que permite ao usuário realizar tarefas repetitivas de forma rápida e eficiente. O objetivo do script é automatizar tarefas que seriam tediosas ou demoradas se realizadas manualmente, como, por exemplo, a extração de dados de um grande conjunto de arquivos.
 
