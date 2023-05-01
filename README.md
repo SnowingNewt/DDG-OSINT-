@@ -1,7 +1,7 @@
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
 
-![alt text]([https://i.ibb.co/FDgDcjX/34563457.gif](https://e7.pngegg.com/pngimages/124/307/png-clipart-duckduckgo-web-search-engine-google-search-anonymity-eyebrows-miscellaneous-logo.png)
+![alt text](https://i.ibb.co/FDgDcjX/34563457.gif](https://e7.pngegg.com/pngimages/124/307/png-clipart-duckduckgo-web-search-engine-google-search-anonymity-eyebrows-miscellaneous-logo.png)
 
 ![alt text](https://i.ibb.co/FDgDcjX/34563457.gif)
 
