@@ -25,3 +25,17 @@ Para os hackers éticos, o script pode ser usado para coletar links que possam s
 O uso de scripts para coleta de informações é comum entre os profissionais que trabalham com OSINT e segurança da informação. A ferramenta desenvolvida pode ser uma excelente adição ao arsenal desses profissionais, permitindo que eles coletem e armazenem links de forma mais eficiente e organizada. Além disso, o script pode ser personalizado de acordo com as necessidades de cada usuário, permitindo que ele adicione ou remova funcionalidades de acordo com sua preferência.
 
 É importante ressaltar que, independentemente da finalidade, o uso dessas informações deve ser sempre ético e legal. Qualquer uso indevido das informações coletadas pode resultar em consequências graves, tanto para os profissionais envolvidos quanto para as pessoas ou empresas investigadas.
+
+# ❌ Sem limites de consultas bloqueadas por Recaptcha!
+
+    🔥 Não ter um limite de consultas em ferramentas de pesquisa OSINT pode trazer diversos benefícios, tais como:
+
+    🔥 Maior eficiência: ao não ter um limite de consultas, os usuários podem realizar um grande número de pesquisas sem se preocupar em serem bloqueados ou limitados. Isso permite que eles sejam mais eficientes em suas pesquisas e obtenham resultados mais rapidamente.
+
+    🔥 Melhor qualidade dos resultados: quando os usuários têm a liberdade de fazer quantas consultas quiserem, eles podem ser mais seletivos em suas pesquisas e encontrar resultados de maior qualidade. Eles podem explorar diferentes fontes e filtrar as informações mais relevantes.
+
+    🔥 Flexibilidade: sem um limite de consultas, os usuários podem trabalhar em seu próprio ritmo e adaptar sua estratégia de pesquisa de acordo com suas necessidades. Eles podem ajustar suas consultas e resultados conforme necessário, sem ter que se preocupar em ficar sem consultas disponíveis.
+
+    🔥 Melhor resolução de casos: para policiais, detetives e hackers éticos, ter acesso a um grande número de consultas OSINT pode ser fundamental para resolver um caso ou coletar informações importantes. A capacidade de realizar uma pesquisa abrangente pode ser a diferença entre sucesso e fracasso em uma investigação.
+
+    🔥 Economia de tempo e dinheiro: sem um limite de consultas, os usuários podem economizar tempo e dinheiro ao não precisar pagar por consultas adicionais ou esperar por um período de tempo específico para realizar mais pesquisas. Isso pode ser especialmente útil para equipes com orçamentos limitados ou que precisam trabalhar com prazos apertados.
