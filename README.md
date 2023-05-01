@@ -1,6 +1,6 @@
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
-![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/8/88/DuckDuckGo_logo.svg/1200px-DuckDuckGo_logo.svg.png)
+
 ![alt text](https://i.ibb.co/FDgDcjX/34563457.gif)
 
 # Resumo:
