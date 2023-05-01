@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/MSWfhgB/11111111111111111.png)
+![alt text](https://logodix.com/logo/48333.png)
 
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
