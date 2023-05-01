@@ -1,7 +1,7 @@
+![alt text](https://i.ibb.co/MSWfhgB/11111111111111111.png)
+
 # DDG-OSINT
 Uma nova variante para usar o DuckDuckGo em CLI
-
-![alt text](https://i.ibb.co/MSWfhgB/11111111111111111.png)
 
 ![alt text](https://i.ibb.co/FDgDcjX/34563457.gif)
 
